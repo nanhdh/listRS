@@ -1,0 +1,35 @@
+[
+  {
+    "name": "RS UMUM DR. ZAINOEL ABIDIN",
+    "gambar": "https://imgur.com/a/jPfJdRT",
+    "address": "JL. TGK DAUD BEUREUEH, NO. 108 B. ACEH",
+    "region": "KOTA BANDA ACEH, ACEH",
+    "phone": "(0651) 34565",
+    "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan untuk BPS"
+  },
+  {
+    "name": "RS CUT MEUTIA ",
+    "gambar": "https://imgur.com/a/nXtAEgp",
+    "address": "JL. BANDA ACEH-MEDAN KM.6 BUKET RATA LHOKSEUMAWE",
+    "region": "KOTA LHOKSEUMAWE, ACEH",
+    "phone": "(0645) 46334",
+    "Description": "Rumah sakit jantung no 1 di Indonesia yang memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  },
+  {
+    "name": "RSUP SANGLAH",
+    "gambar": "https://imgur.com/a/uc96ifz",
+    "address": "JL. DIPONEGORO DENPASAR BALI",
+    "region": "KOTA DENPASAR, BALI",
+    "province": "Bali",
+    "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  },
+  {
+    "name": "RS UMUM DAERAH SINGARAJA",
+    "gambar": "https://imgur.com/a/VVwzJMU",
+    "address": "JL. NGURAH RAI 30 SINGARAJA",
+    "region": "BULELENG, BALI",
+    "phone": "(0362) 22046",
+     "Description": "Rumah sakit dengan kualitas pelayaanan terbaik dan memiliki berbagai fasilitas yang mampu menangani banyak pasien serta rumah sakit ini merupakan rumah sakit rujukan"
+  },
+
+]
